@@ -29,7 +29,7 @@ Output: [-1]
 Explanation: There are no elements to the right of index 0.
  ```
 
-##Constraints:
+## Constraints:
 ```
 1 <= arr.length <= 104
 1 <= arr[i] <= 105
