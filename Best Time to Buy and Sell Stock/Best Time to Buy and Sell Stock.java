@@ -6,11 +6,11 @@ class Solution {
  
       // Checking for lower buy value
       if (buy > prices[i])
-        buy = prices[i];
+      buy = prices[i];
  
       // Checking for higher profit
       else if (prices[i] - buy > max_profit)
-        max_profit = prices[i] - buy;
+      max_profit = prices[i] - buy;
     }
     return max_profit;
   }
