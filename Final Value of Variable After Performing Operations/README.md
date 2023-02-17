@@ -48,4 +48,4 @@ X--: X is decremented by 1, X = 1 - 1 = 0.
 1 <= operations.length <= 100
 operations[i] will be either "++X", "X++", "--X", or "X--".
 ```
-+
+
