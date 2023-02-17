@@ -1,8 +1,7 @@
-## 1299. Replace Elements with Greatest Element on Right Side
-Easy
-1.9K
-186
-Companies
+<h2><a href="https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/">1299. Replace Elements with Greatest Element on Right Side
+</a></h2><h3></h3><hr><div><p>
+
+
 Given an array arr, replace every element in that array with the greatest element among the elements to its right, and replace the last element with -1.
 
 After doing so, return the array.
