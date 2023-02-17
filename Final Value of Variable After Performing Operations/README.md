@@ -1,5 +1,5 @@
 <h2><a href="https://https://leetcode.com/problems/final-value-of-variable-after-performing-operations/">2011.Final Value of Variable After Performing Operations
-</a></h2><h3>Medium</h3><hr><div><p>
+</a></h2><h3>Easy</h3><hr><div><p>
 
 There is a programming language with only four operations and one variable X:
 
