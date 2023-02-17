@@ -1,4 +1,6 @@
-## 20. Valid Parentheses
+<h2><a href="https://leetcode.com/problems/valid-parentheses/">20. Valid Parentheses
+</a></h2><h3></h3><hr><div><p>
+ 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:
