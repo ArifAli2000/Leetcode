@@ -1,4 +1,6 @@
-## 1523. Count Odd Numbers in an Interval Range
+<h2><a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">1523. Count Odd Numbers in an Interval Range
+</a></h2><h3></h3><hr><div><p>
+ 
 Given two non-negative integers low and high. Return the count of odd numbers between low and high (inclusive).
 
 ## Example 1:
